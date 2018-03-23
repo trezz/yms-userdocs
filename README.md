@@ -14,8 +14,10 @@ Sommaire
 Connexion à l'interface d'administration
 ----------------------------------------
 
-Pour accéder à l'interface d'administration, accéder au lien suivant
-[http://yohann-motosport.com/admin](yohann-motosport.com/admin).
+Pour accéder à l'interface d'administration, accéder au lien suivant:
+```url
+http://yohann-motosport.com/admin
+```
 
 ![admin-login](resources/admin-login.png)
 
