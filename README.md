@@ -7,9 +7,9 @@ Documentation utilisateur du site web
 Sommaire
 --------
 
-* [Connexion à l'interface d'administration](#Connexion-à-linterface-dadministration)
-* [Modification de la page **Nos Marques**](#Modification-de-la-page-Nos-Marques)
-    * [Trouver l'adresse d'un logo de marque](#Trouver-ladresse-dun-logo-de-marque)
+* [Connexion à l'interface d'administration](#connexion-à-linterface-dadministration)
+* [Modification de la page **Nos Marques**](#modification-de-la-page-nos-marques)
+    * [Trouver l'adresse d'un logo de marque](#trouver-ladresse-dun-logo-de-marque)
 
 Connexion à l'interface d'administration
 ----------------------------------------
@@ -76,4 +76,4 @@ Pour trouver l'adresse d'un logo de marque, il faut:
 
 **Exemple complet:**
 
-![addbrand-tuto](resource/addbrand-tuto.gif)
+![addbrand-tuto](resources/addbrand-tuto.gif)
